@@ -80,7 +80,7 @@ printah
 1. Server reopsitory yang akan kita gunakan adalah http://github.com
 
 2. Anda harus membuat akun terlebih dahulu. Pada laman github, klik tombol start a project, atau Dari menu (icon +) klik New Repository
-# ![Gambar 7](7.PNG)
+# ![Gambar 7](7.png)
 
 3. Isi nama repositorynya, misal: Latihan1.  
 
